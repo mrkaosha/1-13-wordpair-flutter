@@ -6,7 +6,7 @@ Once you have cloned the repository, open a terminal in Visual Studio code and r
 
 Example:
 
-    user@MacBook-Air ~ % flutter create --project-name wordpair_flutter .
+    user@MacBook-Air ~ % flutter create --project-name grid_flutter .
 
 Press `enter` and you will see Flutter run a bunch of commands:
 
